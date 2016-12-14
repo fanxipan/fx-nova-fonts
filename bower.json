@@ -1,0 +1,14 @@
+{
+  "name": "fx-nova-fonts",
+  "homepage": "https://github.com/fanxipan/fx-nova-fonts",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
