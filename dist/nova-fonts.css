@@ -1,0 +1,17 @@
+@font-face {
+    font-family:Nova-Bold;
+    src: url('fonts/Mark-Simonson-Proxima-Nova-Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family:Nova-Light;
+    src: url('fonts/Mark-Simonson-Proxima-Nova-Light.otf') format("opentype");
+}
+@font-face {
+    font-family:Nova-Regular;
+    src: url('fonts/Mark-Simonson-Proxima-Nova-Regular.otf') format("opentype");
+}
+@font-face {
+    font-family:Nova-Semibold;
+    src: url('fonts/Mark-Simonson-Proxima-Nova-Semibold.otf') format("opentype");
+}
